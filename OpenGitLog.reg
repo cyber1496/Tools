@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\OpenGitLog]
+@="Gitログを開く"
+
+[HKEY_CLASSES_ROOT\*\shell\OpenGitLog\command]
+@="\"F:\\Work\\Tools\\OpenGitLog.bat\" \"%1\""
